@@ -1,0 +1,374 @@
+﻿name,number,percapita
+County Durham LPA,124,23.3
+Darlington LPA,31,28.9
+Hartlepool LPA,11,11.7
+Middlesbrough LPA,30,21.2
+Northumberland LPA,186,57.4
+Redcar and Cleveland LPA,34,24.8
+Stockton-on-Tees LPA,85,43.1
+Gateshead LPA,66,32.7
+Newcastle upon Tyne LPA,124,40.4
+North Tyneside LPA,47,22.5
+South Tyneside LPA,30,19.9
+Sunderland LPA,148,53.3
+Blackburn with Darwen LPA,31,20.7
+Blackpool LPA,24,17.3
+Cheshire East LPA,112,29
+Cheshire West and Chester LPA,99,28.8
+Halton LPA,17,13.1
+Warrington LPA,89,42.5
+Allerdale LPA,19,19.4
+Barrow-in-Furness LPA,9,13.5
+Carlisle LPA,49,45.2
+Copeland LPA,28,41.2
+Eden LPA,45,83.7
+South Lakeland LPA,87,82.9
+Bolton LPA,24,8.3
+Bury LPA,22,11.5
+Manchester LPA,112,20.2
+Oldham LPA,33,13.9
+Rochdale LPA,27,12.1
+Salford LPA,76,28.9
+Stockport LPA,36,12.2
+Tameside LPA,25,11
+Trafford LPA,52,21.9
+Wigan LPA,40,12.1
+Burnley LPA,24,26.9
+Chorley LPA,46,38.7
+Fylde LPA,16,19.7
+Hyndburn LPA,21,25.9
+Lancaster LPA,74,50
+Pendle LPA,15,16.3
+Preston LPA,53,36.8
+Ribble Valley LPA,28,45.1
+Rossendale LPA,15,21
+South Ribble LPA,50,45
+West Lancashire LPA,48,41.9
+Wyre LPA,19,16.8
+Knowsley LPA,20,13.1
+Liverpool LPA,168,33.6
+Sefton LPA,26,9.4
+St. Helens LPA,22,12.1
+Wirral LPA,24,7.4
+East Riding of Yorkshire LPA,62,18.1
+"Kingston upon Hull, City of LPA",41,15.8
+North East Lincolnshire LPA,24,15.1
+North Lincolnshire LPA,25,14.5
+York LPA,86,40.8
+Craven LPA,28,48.8
+Hambleton LPA,36,39.2
+Harrogate LPA,53,32.8
+Richmondshire LPA,19,35.4
+Ryedale LPA,50,89.9
+Scarborough LPA,19,17.5
+Selby LPA,11,12
+Barnsley LPA,45,18.1
+Doncaster LPA,57,18.2
+Rotherham LPA,69,26
+Sheffield LPA,130,22.1
+Bradford LPA,108,19.9
+Calderdale LPA,47,22.2
+Kirklees LPA,63,14.3
+Leeds LPA,289,36.2
+Wakefield LPA,65,18.5
+Derby LPA,65,25.3
+Leicester LPA,79,22.3
+North Northamptonshire LPA,92,26.3
+Nottingham LPA,151,44.8
+Rutland LPA,19,46.9
+West Northamptonshire LPA,82,20.2
+Amber Valley LPA,15,11.6
+Bolsover LPA,39,48
+Chesterfield LPA,55,52.4
+Derbyshire Dales LPA,36,49.7
+Erewash LPA,21,18.2
+High Peak LPA,25,27
+North East Derbyshire LPA,10,9.8
+South Derbyshire LPA,17,15.5
+Blaby LPA,48,47.1
+Charnwood LPA,39,20.7
+Harborough LPA,37,38.7
+Hinckley and Bosworth LPA,42,37
+Melton LPA,8,15.6
+North West Leicestershire LPA,25,23.9
+Oadby and Wigston LPA,25,43.6
+Boston LPA,45,63.5
+East Lindsey LPA,52,36.6
+Lincoln LPA,64,64
+North Kesteven LPA,16,13.5
+South Holland LPA,12,12.5
+South Kesteven LPA,43,30
+West Lindsey LPA,17,17.7
+Ashfield LPA,23,17.9
+Bassetlaw LPA,38,32.1
+Broxtowe LPA,34,29.7
+Gedling LPA,33,27.9
+Mansfield LPA,27,24.7
+Newark and Sherwood LPA,36,29.2
+Rushcliffe LPA,43,35.4
+"Herefordshire, County of LPA",67,34.6
+Shropshire LPA,70,21.5
+Stoke-on-Trent LPA,37,14.4
+Telford and Wrekin LPA,30,16.5
+Cannock Chase LPA,24,23.6
+East Staffordshire LPA,20,16.5
+Lichfield LPA,17,16.1
+Newcastle-under-Lyme LPA,41,31.6
+South Staffordshire LPA,48,42.7
+Stafford LPA,42,30.5
+Staffordshire Moorlands LPA,9,9.1
+Tamworth LPA,11,14.3
+North Warwickshire LPA,33,50.4
+Nuneaton and Bedworth LPA,21,16.1
+Rugby LPA,53,47.9
+Stratford-on-Avon LPA,77,58.2
+Warwick LPA,68,46.9
+Birmingham LPA,154,13.5
+Coventry LPA,481,126.8
+Dudley LPA,38,11.8
+Sandwell LPA,37,11.2
+Solihull LPA,119,54.7
+Walsall LPA,24,8.4
+Wolverhampton LPA,51,19.3
+Bromsgrove LPA,42,41.8
+Malvern Hills LPA,10,12.6
+Redditch LPA,12,14
+Worcester LPA,29,28.9
+Wychavon LPA,43,32.8
+Wyre Forest LPA,15,14.8
+Bedford LPA,102,58.4
+Central Bedfordshire LPA,46,15.6
+Luton LPA,52,24.4
+Peterborough LPA,66,32.6
+Southend-on-Sea LPA,16,8.8
+Thurrock LPA,19,10.8
+Cambridge LPA,56,44.8
+East Cambridgeshire LPA,20,22.2
+Fenland LPA,5,4.9
+Huntingdonshire LPA,46,25.7
+South Cambridgeshire LPA,45,28
+Basildon LPA,58,30.9
+Braintree LPA,71,46.4
+Brentwood LPA,7,9.1
+Castle Point LPA,3,3.3
+Chelmsford LPA,37,20.6
+Colchester LPA,45,22.8
+Epping Forest LPA,35,26.5
+Harlow LPA,12,13.7
+Maldon LPA,9,13.8
+Rochford LPA,15,17.1
+Tendring LPA,16,10.9
+Uttlesford LPA,22,23.7
+Broxbourne LPA,18,18.4
+Dacorum LPA,23,14.8
+East Hertfordshire LPA,17,11.2
+Hertsmere LPA,28,26.5
+North Hertfordshire LPA,29,21.7
+St Albans LPA,40,26.8
+Stevenage LPA,9,10.2
+Three Rivers LPA,59,62.8
+Watford LPA,47,48.6
+Welwyn Hatfield LPA,53,42.8
+Breckland LPA,41,29
+Broadland LPA,20,15.2
+Great Yarmouth LPA,32,32.3
+North Norfolk LPA,66,62.8
+Norwich LPA,52,36.6
+South Norfolk LPA,34,23.8
+Babergh LPA,23,24.8
+East Suffolk LPA,62,24.8
+Ipswich LPA,55,40.4
+Mid Suffolk LPA,18,17.2
+West Suffolk LPA,85,47.9
+Camden LPA,373,133.4
+City of London LPA,36,329.1
+Hackney LPA,139,49.5
+Hammersmith and Fulham LPA,580,316
+Haringey LPA,92,34.5
+Islington LPA,286,115.3
+Kensington and Chelsea LPA,547,348.7
+Lambeth LPA,307,95.4
+Lewisham LPA,132,43.2
+Newham LPA,153,43.1
+Southwark LPA,390,121.9
+Tower Hamlets LPA,190,57.2
+Wandsworth LPA,623,188.9
+Westminster LPA,1095,405.8
+Barking and Dagenham LPA,64,29.9
+Barnet LPA,210,52.6
+Bexley LPA,45,18.1
+Brent LPA,237,72.3
+Bromley LPA,86,25.8
+Croydon LPA,100,25.7
+Ealing LPA,280,82.3
+Enfield LPA,125,37.5
+Greenwich LPA,257,88.9
+Harrow LPA,49,19.4
+Havering LPA,31,11.9
+Hillingdon LPA,198,64.1
+Hounslow LPA,282,103.8
+Kingston upon Thames LPA,96,53.6
+Merton LPA,199,96.4
+Redbridge LPA,75,24.5
+Richmond upon Thames LPA,354,178.7
+Sutton LPA,51,24.6
+Waltham Forest LPA,183,66.1
+Bracknell Forest LPA,36,29
+Brighton and Hove LPA,345,118.3
+Isle of Wight LPA,51,35.8
+Medway LPA,17,6.1
+Milton Keynes LPA,372,137.7
+Portsmouth LPA,72,33.5
+Reading LPA,62,38.7
+Slough LPA,68,45.5
+Southampton LPA,87,34.4
+West Berkshire LPA,108,68.2
+Windsor and Maidenhead LPA,40,26.4
+Wokingham LPA,70,40.2
+Buckinghamshire LPA,165,30.2
+Eastbourne LPA,36,34.8
+Hastings LPA,15,16.2
+Lewes LPA,24,23.2
+Rother LPA,13,13.4
+Wealden LPA,27,16.6
+Basingstoke and Deane LPA,83,46.7
+East Hampshire LPA,37,29.9
+Eastleigh LPA,58,42.8
+Fareham LPA,12,10.3
+Gosport LPA,11,13
+Hart LPA,47,48.2
+Havant LPA,27,21.4
+New Forest LPA,80,44.5
+Rushmoor LPA,35,37.1
+Test Valley LPA,42,33
+Winchester LPA,91,72.3
+Ashford LPA,32,24.4
+Canterbury LPA,65,39
+Dartford LPA,35,30.7
+Dover LPA,31,26.2
+Folkestone and Hythe LPA,31,27.4
+Gravesham LPA,10,9.4
+Maidstone LPA,64,37
+Sevenoaks LPA,29,23.9
+Swale LPA,37,24.5
+Thanet LPA,26,18.4
+Tonbridge and Malling LPA,20,15.1
+Tunbridge Wells LPA,45,37.8
+Cherwell LPA,97,63.9
+Oxford LPA,105,69.3
+South Oxfordshire LPA,45,31.3
+Vale of White Horse LPA,43,31.2
+West Oxfordshire LPA,20,17.9
+Elmbridge LPA,38,27.7
+Epsom and Ewell LPA,17,21
+Guildford LPA,58,38.6
+Mole Valley LPA,21,24
+Reigate and Banstead LPA,29,19.4
+Runnymede LPA,36,39.9
+Spelthorne LPA,46,46.1
+Surrey Heath LPA,26,29.1
+Tandridge LPA,15,16.9
+Waverley LPA,34,26.9
+Woking LPA,19,19
+Adur LPA,10,15.6
+Arun LPA,27,16.8
+Chichester LPA,55,45.3
+Crawley LPA,41,36.5
+Horsham LPA,29,19.9
+Mid Sussex LPA,36,23.7
+Worthing LPA,13,11.7
+Bath and North East Somerset LPA,68,34.6
+"Bournemouth, Christchurch and Poole LPA",82,20.7
+"Bristol, City of LPA",123,26.4
+Cornwall LPA,276,48.1
+Dorset LPA,123,32.4
+Isles of Scilly LPA,0,0
+North Somerset LPA,90,41.7
+Plymouth LPA,74,28.2
+South Gloucestershire LPA,119,41.3
+Swindon LPA,47,21.1
+Torbay LPA,26,19.1
+Wiltshire LPA,167,33.1
+East Devon LPA,64,43.2
+Exeter LPA,49,36.8
+Mid Devon LPA,27,32.4
+North Devon LPA,51,52
+South Hams LPA,33,37.5
+Teignbridge LPA,25,18.5
+Torridge LPA,24,34.9
+West Devon LPA,28,49.9
+Cheltenham LPA,34,29.3
+Cotswold LPA,59,65.4
+Forest of Dean LPA,15,17.2
+Gloucester LPA,38,29.3
+Stroud LPA,43,35.6
+Tewkesbury LPA,21,21.7
+Mendip LPA,38,32.7
+Sedgemoor LPA,33,26.7
+Somerset West and Taunton LPA,47,30.2
+South Somerset LPA,49,29
+Isle of Anglesey LPA,55,78.1
+Gwynedd LPA,81,64.7
+Conwy LPA,45,38.1
+Denbighshire LPA,19,19.7
+Flintshire LPA,34,21.7
+Wrexham LPA,35,25.7
+Powys LPA,89,66.9
+Ceredigion LPA,42,57.6
+Pembrokeshire LPA,108,85.2
+Carmarthenshire LPA,74,38.9
+Swansea LPA,57,23.1
+Neath Port Talbot LPA,12,8.3
+Bridgend LPA,27,18.3
+Vale of Glamorgan LPA,26,19.2
+Cardiff LPA,75,20.3
+Rhondda Cynon Taf LPA,18,7.4
+Merthyr Tydfil LPA,7,11.6
+Caerphilly LPA,39,21.5
+Blaenau Gwent LPA,18,25.7
+Torfaen LPA,28,29.5
+Monmouthshire LPA,53,55.7
+Newport LPA,52,33.2
+Aberdeen City LPA,99,43.2
+Aberdeenshire LPA,106,40.6
+Angus LPA,75,64.8
+Argyll and Bute LPA,86,100.7
+City of Edinburgh LPA,146,27.7
+Clackmannanshire LPA,23,44.8
+Dumfries and Galloway LPA,102,68.8
+Dundee City LPA,127,85.3
+East Ayrshire LPA,67,55.1
+East Dunbartonshire LPA,25,23.0
+East Lothian LPA,123,114.0
+East Renfrewshire LPA,24,25.0
+Falkirk LPA,53,33.0
+Fife LPA,114,30.5
+Glasgow City LPA,203,31.9
+Highland LPA,224,95.1
+Inverclyde LPA,34,44.1
+Midlothian LPA,60,64.4
+Moray LPA,46,48.1
+Na h-Eileanan Siar LPA,28,105.7
+North Ayrshire LPA,50,37.2
+North Lanarkshire LPA,165,48.4
+Orkney Islands LPA,40,178.6
+Perth and Kinross LPA,121,79.7
+Renfrewshire LPA,71,39.6
+Scottish Borders LPA,51,44.3
+Shetland Islands LPA,21,91.8
+South Ayrshire LPA,57,50.8
+South Lanarkshire LPA,148,46.1
+Stirling LPA,115,122.2
+West Dunbartonshire LPA,26,29.4
+West Lothian LPA,46,25.0
+Antrim and Newtownabbey LPA,37,25.7
+Ards and North Down LPA,19,11.7
+"Armagh City, Banbridge and Craigavon LPA",31,14.3
+Belfast LPA,53,15.5
+Causeway Coast and Glens LPA,31,21.4
+Derry City and Strabane LPA,27,17.9
+Fermanagh and Omagh LPA,38,32.4
+Lisburn and Castlereagh LPA,17,11.6
+Mid and East Antrim LPA,24,17.2
+Mid Ulster LPA,24,16.1
+"Newry, Mourne and Down LPA",31,17.1
